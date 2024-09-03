@@ -1,3 +1,4 @@
 [submodule "boards"]
 	path = boards
-	url = https://github.com/rzeldent/platformio-espressif32-sunton.git@2.0.9
+	url = https://github.com/rzeldent/platformio-espressif32-sunton.git
+	branch = release/2.0.9
